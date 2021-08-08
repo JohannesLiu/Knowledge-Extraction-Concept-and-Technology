@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [介绍](README.md)
 * [第一章：知识抽取概述](Chapter1/1.0-Introduction.md)
     * [1.1 知识抽取的背景](Chapter1/1.1-Background.md)
     * [1.2 知识抽取的应用](Chapter1/1.2-Application.md)
