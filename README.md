@@ -1,1 +1,0 @@
-# Knowledge-Extraction-Concept-and-Technology
